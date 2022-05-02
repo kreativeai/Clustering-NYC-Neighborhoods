@@ -1,8 +1,30 @@
-# Clustering-NYC-Neighborhoods
+# Segmenting and clustering neighborhoods in New York City
 
-### Files
+## Overview 
+Segment the neighborhoods of New York City into separate clusters to help the people determining which neighborhood they should choose for their move in to this city.
 
-- **data_preparation.ipynb** - contains further information about how to proceed with data preparation
-- **modeling.ipynb** - contains important information about the modeling part of the project
+## Data Sources
+- NYC Neighborhood spatial information
+- City Realty average housing prices Manhattan/Brooklyn July 2020
+- Zumber median housing prices for Manhattan/Brooklyn Feb 2021
+- NYC OPEN data (i.e. Crime rate, Population)
+- Foursquare (Schools, hospitals, banks, bus stations, restaurants, bars)
 
+## Feature Engineering
+!["feature01"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/01_feature.png)
+!["feature02"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/02_heatmap.png)
 
+## Clustering Result (K-means)
+!["kmean"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/03_kmean_result.png)
+
+## Clustering Result (Hierarchical Clustering)
+!["hierarchical"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/04_hierarchical_result.png)
+
+## Clustering Result (DBScan)
+!["dbscan"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/05_dbscan_result.png)
+
+## Comparing the cluster result with the diversity of the neighborhoods and its economics.
+!["compare01"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare01.png)
+!["compare02"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare01.png)
+!["compare03"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare01.png)
+!["compare04"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare01.png)
