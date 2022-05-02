@@ -31,3 +31,14 @@ Segment the neighborhoods of New York City into separate clusters to help the pe
 
 ## Conclusion
 The neighborhoods of New York City have been successfully separated into clusters in this project. It provides a references for the people who want to move in to this city.
+
+## Tech Stack
+- numpy/pandas
+- sklearn
+- matplotlib/seaborn/ploty
+- sqlite
+- area/geopy/folium
+- KMeans
+- Hierarchy
+- KModes
+- ElbowVisualizer
