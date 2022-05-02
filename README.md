@@ -25,6 +25,9 @@ Segment the neighborhoods of New York City into separate clusters to help the pe
 
 ## Comparing the cluster result with the diversity of the neighborhoods and its economics.
 !["compare01"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare01.png)
-!["compare02"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare01.png)
-!["compare03"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare01.png)
-!["compare04"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare01.png)
+!["compare02"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare02.png)
+!["compare03"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare03.png)
+!["compare04"](https://github.com/kreativeai/Clustering-NYC-Neighborhoods/blob/main/img/06_compare04.png)
+
+## Conclusion
+The neighborhoods of New York City have been successfully separated into clusters in this project. It provides a references for the people who want to move in to this city.
